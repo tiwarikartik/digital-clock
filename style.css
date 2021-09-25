@@ -1,0 +1,22 @@
+:root {
+    overflow: hidden;
+    background-color: black;
+}
+
+#clock {
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    font-family: "7LED";
+    font-size: 12vmin;
+    margin: 9vw;
+}
+
+#display {
+    color: black;
+    background-color: #00ffff;
+    font-family: inherit;
+    border: #00aaff 2vmin solid;
+    border-radius: 1vmin;
+    box-shadow: 0 0 4vmin 2vmin #00ffff;
+}
