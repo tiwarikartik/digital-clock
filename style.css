@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
 :root {
     overflow: hidden;
     background-color: black;
@@ -7,7 +9,7 @@
     display: grid;
     place-items: center;
     justify-content: center;
-    font-family: "7LED";
+    font-family: "Righteous", cursive;
     font-size: 12vmin;
     margin: 9vw;
 }
